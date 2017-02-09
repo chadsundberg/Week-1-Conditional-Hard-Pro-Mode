@@ -22,3 +22,5 @@ console.log(whichIsBigger(3, 2));
 console.log(whichIsBigger(2, 7));
 console.log(whichIsBigger(7, 7));
 console.log(whichIsBigger('86.7 taco', 92));
+console.log(whichIsBigger('taco 86.7', 41));  // having trouble getting this last one to work.
+
