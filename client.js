@@ -16,11 +16,9 @@ function whichIsBigger (x, y) {
 // I removed all console.log from the function.
 
 // And now I got the Pro Mode to work!!  And it's only 9:23 PM!!
-// Now time to add a README.md file to this thing.
 
 console.log(whichIsBigger(3, 2));
 console.log(whichIsBigger(2, 7));
 console.log(whichIsBigger(7, 7));
 console.log(whichIsBigger('86.7 taco', 92));
 console.log(whichIsBigger('taco 86.7', 41));  // having trouble getting this last one to work.
-
